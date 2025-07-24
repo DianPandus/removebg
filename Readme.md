@@ -69,7 +69,7 @@ npm run dev
 ## 📝 Cara Menggunakan
 
 1.  Buka `http://localhost:3000` di browser Anda.
-2.  Klik tombol **"Mulai Mengedit Sekarang"** atau navigasi ke halaman **"Remove BG"**.
+2.  Klik tombol **"Pilih Foto"** atau navigasi ke halaman **"Remove BG"**.
 3.  Pilih gambar yang ingin Anda edit.
 4.  Klik tombol **"Hapus Background"** dan tunggu proses selesai.
 5.  Hasil akan muncul dan Anda bisa mengunduhnya.
