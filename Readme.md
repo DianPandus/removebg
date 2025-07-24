@@ -2,7 +2,6 @@
 
 HapusBG adalah sebuah aplikasi web sederhana yang dibuat untuk menghapus latar belakang dari gambar secara otomatis menggunakan kekuatan AI. Aplikasi ini dibangun dengan frontend Next.js dan backend Python (FastAPI).
 
-![HapusBG Screenshot](https://i.imgur.com/3q1ZjvV.png)
 
 ## 🚀 Fitur Utama
 
